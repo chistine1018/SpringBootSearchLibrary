@@ -1,0 +1,13 @@
+package com.anson.springbootsearchlibrary;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringbootSearchLibraryApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
